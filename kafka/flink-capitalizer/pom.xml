@@ -33,7 +33,7 @@ under the License.
 		<target.java.version>1.8</target.java.version>
 		<maven.compiler.source>${target.java.version}</maven.compiler.source>
 		<maven.compiler.target>${target.java.version}</maven.compiler.target>
-		<log4j.version>2.17.2</log4j.version>
+		<log4j.version>2.25.3</log4j.version>
 		<maven-compiler-plugin.version>3.10.1</maven-compiler-plugin.version>
 		<maven-shade-plugin.version>3.3.0</maven-shade-plugin.version>
 	</properties>
